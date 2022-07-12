@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+input{
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+#resultado{
+    background-color: beige;
+    font-size: 25px;
+}
+
+#calculo{
+    background-color: aliceblue;
+    font-size: 25px;
+}
+
+#numero1 #numero2{
+    font-size: 15px;
+    font-weight: bold;
+}
